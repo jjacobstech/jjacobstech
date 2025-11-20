@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello Humans.<br>My name is <strong>Jacobs Joshua</strong>, and i like to chill, I love coding, music, and food<br>
-<p>Full Stack Software Engineer with 4 years of experience building and maintaining scalable web applications using Laravel and React. I specialize in optimizing development workflows, reducing debug time, and integrating third-party APIs to extend application functionality. Beyond coding, I focus on delivering business value by creating efficient, user-friendly, and reliable solutions that help organizations streamline operations and achieve growth.</p>
+<p>Fullstack Software Engineer with 4 years of experience designing, building, and maintaining scalable web applications. Proficient in both frontend and backend development, working with PHP, Node.js, Laravel, Nest.js, Express.js, and modern frontend frameworks. Experienced in developing RESTful APIs, managing databases (MySQL, PostgreSQL, MongoDB), optimizing application workflows, and integrating third-party services. Committed to writing clean, maintainable code and delivering reliable, high-performance solutions that drive business growth and enhance user experiences.</p>
 
 
 ## 🌐 Socials:
